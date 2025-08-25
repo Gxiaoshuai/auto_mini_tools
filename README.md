@@ -1,4 +1,4 @@
-# AutoMiniBuilder 🛠️  
+# AutoMiniTools 🛠️  
 > “一句话描述”：用自然语言描述需求，大模型自动生成代码→自动打包成可执行文件→用户一键下载运行。
 
 ![GitHub release](https://img.shields.io/github/v/release/yourname/AutoMiniBuilder)  
