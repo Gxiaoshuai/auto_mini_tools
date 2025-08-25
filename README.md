@@ -20,5 +20,5 @@
 ## 📦 快速开始
 ### 1) 克隆仓库
 ```bash
-git clone https://github.com/yourname/AutoMiniBuilder.git
-cd AutoMiniBuilder
+git clone https://github.com/Gxiaoshuai/auto_mini_tools.git
+cd auto_mini_tools
